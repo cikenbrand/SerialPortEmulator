@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialPortEmulator", "SerialPortEmulator\SerialPortEmulator.csproj", "{EE0E862A-F703-4EEB-B64F-A3FC519DDD4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE0E862A-F703-4EEB-B64F-A3FC519DDD4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE0E862A-F703-4EEB-B64F-A3FC519DDD4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE0E862A-F703-4EEB-B64F-A3FC519DDD4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE0E862A-F703-4EEB-B64F-A3FC519DDD4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4EBF9A6-892C-4496-B97C-1B5C1151C414}
+	EndGlobalSection
+EndGlobal

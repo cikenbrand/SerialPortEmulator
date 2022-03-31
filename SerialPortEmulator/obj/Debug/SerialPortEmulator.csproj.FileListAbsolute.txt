@@ -1,0 +1,10 @@
+C:\Users\SIR-DESKTOP-02\source\winform\SerialPortEmulator\SerialPortEmulator\bin\Debug\SerialPortEmulator.exe.config
+C:\Users\SIR-DESKTOP-02\source\winform\SerialPortEmulator\SerialPortEmulator\bin\Debug\SerialPortEmulator.exe
+C:\Users\SIR-DESKTOP-02\source\winform\SerialPortEmulator\SerialPortEmulator\bin\Debug\SerialPortEmulator.pdb
+C:\Users\SIR-DESKTOP-02\source\winform\SerialPortEmulator\SerialPortEmulator\obj\Debug\SerialPortEmulator.csproj.AssemblyReference.cache
+C:\Users\SIR-DESKTOP-02\source\winform\SerialPortEmulator\SerialPortEmulator\obj\Debug\SerialPortEmulator.Form1.resources
+C:\Users\SIR-DESKTOP-02\source\winform\SerialPortEmulator\SerialPortEmulator\obj\Debug\SerialPortEmulator.Properties.Resources.resources
+C:\Users\SIR-DESKTOP-02\source\winform\SerialPortEmulator\SerialPortEmulator\obj\Debug\SerialPortEmulator.csproj.GenerateResource.cache
+C:\Users\SIR-DESKTOP-02\source\winform\SerialPortEmulator\SerialPortEmulator\obj\Debug\SerialPortEmulator.csproj.CoreCompileInputs.cache
+C:\Users\SIR-DESKTOP-02\source\winform\SerialPortEmulator\SerialPortEmulator\obj\Debug\SerialPortEmulator.exe
+C:\Users\SIR-DESKTOP-02\source\winform\SerialPortEmulator\SerialPortEmulator\obj\Debug\SerialPortEmulator.pdb
